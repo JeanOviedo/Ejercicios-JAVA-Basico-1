@@ -1,0 +1,19 @@
+Persona: Adrian
+Apellido: Rodriguez
+Edad: 19
+
+Persona: Alejandro
+Apellido: Grande
+Edad: 28
+
+Persona: Mikel
+Apellido: Aparicio
+Edad: 21
+
+Persona: Rodrigo
+Apellido: Novoa
+Edad: 21
+
+Persona: Asier
+Apellido: Urangan
+Edad: 22
